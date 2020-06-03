@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=xcf-thumbnailer.pl
+Exec=xcf-thumbnailer.pl %i %o %s
+MimeType=image/x-xcf
